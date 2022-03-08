@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Password Protected Diary App</string>
-    <string name="welcome_to_your_diary">WELCOME TO YOUR DIARY</string>
-    <string name="enter_password">ENTER PASSWORD</string>
-    <string name="back"><![CDATA[<--]]></string>
-    <string name="add_note">+</string>
-    <string name="delete_note">-</string>
-</resources>
